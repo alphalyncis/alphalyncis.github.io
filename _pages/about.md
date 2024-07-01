@@ -33,7 +33,7 @@ Observability of Forming Planets and their Circumplanetary Disks with JWST & ELT
 ------
 For my master thesis project I worked with Prof. Judit Szulagyi at ETH Zurich. I simulated JWST & ELT observations of circumplanetary disks using hydrodynamic simulation output and RADMC3D radiative transfer calculations. 
 
-Publication here: [Observability of forming planets and their circumplanetary discs – IV. With JWST and ELT](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..506C/abstract)
+Publication here: [Chen & Szulagyi 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..506C/abstract)
 
 ![mspaper](/images/mspaper.jpeg)
 _ELT/METIS synthetic images of systems with different planetary masses (10, 5, and 1 MJup and 1 MSat) projected to 100 pc._
