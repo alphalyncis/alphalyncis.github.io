@@ -25,7 +25,6 @@ author:
   name             : "Xueqing Chen"
   pronouns         : "she/her"  
   bio              : "Astro PhD Student"
-  location         : "Earth"
   employer         : "University of Edinburgh"
   uri              : # URL
   email            : "xueqing.chen@ed.ac.uk" 
@@ -33,11 +32,8 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
-  impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-9339-2369"
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -49,29 +45,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
 
 
 # Site Settings
