@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year PhD student in Astronomy at University of Edinburgh. I am working on direct imaging characterization of brown dwarfs and giant explanet analogs. I am interested in studying the weather of these exoworlds using time-resolved spectroscopic observations, both from the groud and using JWST.
+I am a 2nd year PhD student in Astronomy at University of Edinburgh. I am working on direct imaging characterization of brown dwarfs and giant explanet analogs. I am interested in studying the weather of these exoworlds using time-resolved spectroscopic observations, both from the ground and using JWST.
 
 Weather map of the nearest brown dwarfs WISE 1049AB
 ======
