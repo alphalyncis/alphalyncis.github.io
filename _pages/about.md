@@ -23,3 +23,12 @@ Monitoring weather on L/T transition brown dwarfs with JWST
 I am working on reducing and analyzing the JWST NIRSpec + MIRI spectroscopic monitoring observations of WISE 1049AB (ID: GO 2965, PI: Beth Biller), aka Luhman 16 AB. This program aims to identify the source driving the variability observed on these two benchmark objects spanning the L/T transition by looking at the distinct variability behaviours at different wavelengths, which probes different pressure levels in their atmospheres.
 
 ![JWST](/images/jwst.jpg)
+
+Observability of Forming Planets and their Circumplanetary Disks with JWST & ELT
+------
+For my master thesis project I worked on simulating JWST & ELT observations of circumplanetary disks using hydrodynamical simulation output and RADMC3D radiative transfer calculations. 
+
+Publication here: [link](https://ui.adsabs.harvard.edu/abs/2022MNRAS.516..506C/abstract)
+
+![mspaper](/images/mspaper.jpeg)
+_ELT/METIS synthetic images of systems with different planetary masses (10, 5, and 1 MJup and 1 MSat) projected to 100 pc._
