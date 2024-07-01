@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year PhD student in Astronomy at University of Edinburgh. I am working on direct imaging characterization of brown dwarfs and giant explanet analogs. I am interested in studying the weather of these exoworlds using time-resolved spectroscopic observations, both from the ground and using JWST.
+I am a 2nd year PhD student in Astronomy working with Beth Biller at University of Edinburgh. My thesis is centered on direct imaging characterization of brown dwarfs and giant explanet analogs. I am interested in studying the weather of these exoworlds using time-resolved spectroscopic observations, both from the ground and using JWST.
 
 Weather map of the nearest brown dwarfs WISE 1049AB
 ------
@@ -20,6 +20,6 @@ Check out my recent paper on IGRINS Doppler imaging: [coming soon]
 
 Monitoring weather on L/T transition brown dwarfs with JWST
 ------
-I am working on reducing and analyzing the JWST NIRSpec + MIRI spectroscopic monitoring observations of WISE 1049AB (ID: GO 2965, PI: Biller), aka Luhman 16 AB. This program aims to identify the source driving the variability observed on these two benchmark objects spanning the L/T transition by looking at the distinct variability behaviours at different wavelengths, which probes different pressure levels in their atmospheres.
+I am working on reducing and analyzing the JWST NIRSpec + MIRI spectroscopic monitoring observations of WISE 1049AB (ID: GO 2965, PI: Beth Biller), aka Luhman 16 AB. This program aims to identify the source driving the variability observed on these two benchmark objects spanning the L/T transition by looking at the distinct variability behaviours at different wavelengths, which probes different pressure levels in their atmospheres.
 
 ![JWST](/images/jwst.jpg)
