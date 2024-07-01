@@ -8,5 +8,6 @@ redirect_from:
 ---
 
 Version 2022.04
-(https://alphalyncis.github.io/files/cv_XueqingChen042022.pdf)
+
+[CV](https://alphalyncis.github.io/files/cv_XueqingChen042022.pdf)
 
