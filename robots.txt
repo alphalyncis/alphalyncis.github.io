@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alphalyncis.github.io/sitemap.xml
