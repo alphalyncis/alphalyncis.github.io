@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 2nd year PhD student in Astronomy at University of Edinburgh. I am working on direct imaging characterization of brown dwarfs and giant explanet analogs. I am interested in studying the weather of these exoworlds using time-resolved spectroscopic observations, both from the ground and using JWST.
 
-Weather map of the nearest brown dwarfs WISE 1049AB
+**Weather map of the nearest brown dwarfs WISE 1049AB**
 ======
 I am applying the technique of Doppler imaging to produce global weather maps of the benchmark brown dwarf binary WISE 1049AB (aka Luhman 16 AB), using high resolution time-resolved spectra take by Gemini/IGRINS in H and K bands.
 
@@ -25,7 +25,7 @@ Getting started
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
