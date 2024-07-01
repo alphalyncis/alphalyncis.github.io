@@ -24,7 +24,7 @@ author:
   avatar           : "profilepic.png"
   name             : "Xueqing Chen"
   pronouns         : "she/her"  
-  bio              : "Astro PhD Student"
+  bio              : "Astronomy PhD Student"
   employer         : "University of Edinburgh"
   uri              : # URL
   email            : "xueqing.chen@ed.ac.uk" 
@@ -44,7 +44,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "xqchen.bsky.social" # Replace this with you Bluesky username
   linkedin         : # Username
 
 
