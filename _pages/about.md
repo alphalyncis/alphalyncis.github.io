@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xueqing Chen"
+title: "Xueqing Chen 陈雪晴"
 author_profile: true
 redirect_from: 
   - /about/
