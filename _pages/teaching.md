@@ -19,3 +19,8 @@ Physics Laboratory (PHY1002)
 
 Computational Laboratory (CSC1002)
 
+
+
+### Advising students
+
+Pablo Rutschmann - ETH Zurich
