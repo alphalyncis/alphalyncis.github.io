@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year PhD student in Astronomy working with Beth Biller at University of Edinburgh. My thesis is centered on direct imaging characterization of brown dwarfs and giant exoplanet analogs. I am interested in studying the weather of these exoworlds using time-resolved spectroscopic observations, both from the ground and using JWST.
+I am a 2nd year PhD student working with Beth Biller at University of Edinburgh. I previously obtained my master's degree in physics at ETH Zurich. My PhD work is centered on direct imaging characterization of brown dwarfs and giant exoplanet analogs. I am interested in studying the weather of these exoworlds using time-resolved spectroscopic observations, both from the ground and using JWST.
 
 ![paranal](/images/paranal.png)
 _ELT viewed from the VLT platform at ESO Paranal, Oct 2023_
