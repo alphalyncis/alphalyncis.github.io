@@ -17,7 +17,8 @@ Weather map of the nearest brown dwarfs WISE 1049AB
 ------
 I am applying the technique of Doppler imaging to produce global weather maps of the benchmark brown dwarf binary WISE 1049AB (aka Luhman 16 AB), using high resolution time-resolved spectra take by Gemini/IGRINS in H and K bands.
 
-Check out my recent paper on IGRINS Doppler imaging of WISE 1049AB: [coming soon]
+**Check out the first multi-band weather maps of not just one, but two extrasolar worlds!**
+Link to new paper: [Global weather map reveals persistent top-of-atmosphere features on the nearest brown dwarfs](https://arxiv.org/abs/2408.09606)
 
 ![dopplermap](/images/dopplermap.png)
 
