@@ -7,9 +7,13 @@ author_profile: true
 
 ### TA @ University of Edinburgh
 
-Discovering Astronomy
+Discovering Astronomy (2022 Fall)
 
-Programming and Data Analysis
+Programming and Data Analysis (2023 Fall)
+
+Observational Astronomy Lab (2024 Fall)
+
+Scientific Image Analysis (2025 Spring)
 
 
 
