@@ -5,7 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-Mapping atmospheric structures on the nearest brown dwarfs ([slides])\
+Clouds or Chemistry? JWST weather report from the nearest brown dwarfs ([slides])\
+_Scottish Brown Dwarfs & Exoplanet meeting, Edinburgh, UK, Jan 9, 2025_
+
+Mapping atmospheric structures on the nearest brown dwarfs ([slides](https://alphalyncis.github.io/files/ukexom24.pdf))\
 _UK Exoplanet meeting 24, Birmingham, UK, April 9-11, 2024_
 
 Mapping weathers on variable brown dwarfs\
