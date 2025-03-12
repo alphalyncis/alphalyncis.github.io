@@ -20,7 +20,7 @@ I am applying the technique of Doppler imaging to produce global weather maps of
 **Check out the first multi-band weather maps of not just one, but two extrasolar worlds!**
 Link to paper: [Global weather map reveals persistent top-of-atmosphere features on the nearest brown dwarfs](https://arxiv.org/abs/2408.09606)
 
-  <img src="/images/igrinsHK_WISE1049A.gif" alt="dopplermapgifa" width="300"/>                       <img src="/images/igrinsHK_WISE1049B.gif" alt="dopplermapgifa" width="300"/> 
+  <img src="/images/igrinsHK_WISE1049A.gif" alt="dopplermapgifa" width="300"/>                         <img src="/images/igrinsHK_WISE1049B.gif" alt="dopplermapgifa" width="300"/> 
 
 Doppler imaging uses the varying line shapes caused by Doppler shifts across the face of a rotating star to infer the existence of atmospheric inhomogeneities:
 
@@ -31,7 +31,7 @@ Monitoring weather on L/T transition brown dwarfs with JWST
 ------
 I am working on reducing and analyzing the JWST NIRSpec + MIRI spectroscopic monitoring observations of WISE 1049AB (ID: GO 2965, PI: Beth Biller), aka Luhman 16 AB. This program aims to identify the source driving the variability observed on these two benchmark objects spanning the L/T transition by looking at the distinct variability behaviours at different wavelengths, which probes different pressure levels in their atmospheres.
 
-<video width="500">
+<video width="500" controls>
   <source src="/images/WISE1049B_nrs2_spectrum_lc_video.mp4" type="video/mp4">
 </video>
 
