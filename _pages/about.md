@@ -31,6 +31,8 @@ Monitoring weather on L/T transition brown dwarfs with JWST
 ------
 I am working on reducing and analyzing the JWST NIRSpec + MIRI spectroscopic monitoring observations of WISE 1049AB (ID: GO 2965, PI: Beth Biller), aka Luhman 16 AB. This program aims to identify the source driving the variability observed on these two benchmark objects spanning the L/T transition by looking at the distinct variability behaviours at different wavelengths, which probes different pressure levels in their atmospheres.
 
+![jwstnrs2](WISE1049B_nrs2_spectrum_lc_video.gif)
+
 <video width="500" controls>
   <source src="/images/WISE1049B_nrs2_spectrum_lc_video.mp4" type="video/mp4">
 </video>
