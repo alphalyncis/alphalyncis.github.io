@@ -33,10 +33,6 @@ I am working on reducing and analyzing the JWST NIRSpec + MIRI spectroscopic mon
 
 ![jwstnrs2](WISE1049B_nrs2_spectrum_lc_video.gif)
 
-<video width="500" controls>
-  <source src="/images/WISE1049B_nrs2_spectrum_lc_video.mp4" type="video/mp4">
-</video>
-
 
 Observability of Forming Planets and their Circumplanetary Disks with JWST & ELT
 ------
