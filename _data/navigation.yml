@@ -2,7 +2,10 @@
 main:
   - title: "Home"
     url: /
-    
+
+  - title: "CV"
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
@@ -11,6 +14,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
+
+  - title: "Outreach"
+    url: /outreach/
+
+  - title: "ExoRender"
+    url: /exorender/
