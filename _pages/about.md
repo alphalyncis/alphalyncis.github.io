@@ -20,7 +20,7 @@ I am applying the technique of Doppler imaging to produce global weather maps of
 **Check out the first multi-band weather maps of not just one, but two extrasolar worlds!**
 Link to paper: [Global weather map reveals persistent top-of-atmosphere features on the nearest brown dwarfs](https://arxiv.org/abs/2408.09606)
 
-  <img src="/images/igrinsHK_WISE1049A.gif" alt="dopplermapgifa" width="400"/>     <img src="/images/igrinsHK_WISE1049B.gif" alt="dopplermapgifa" width="400"/> 
+  <img src="/images/igrinsHK_WISE1049A.gif" alt="dopplermapgifa" width="300"/>     <img src="/images/igrinsHK_WISE1049B.gif" alt="dopplermapgifa" width="300"/> 
 
 ![dopplermap](/images/dopplermap.png)
 
