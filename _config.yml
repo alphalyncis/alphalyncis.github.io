@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xueqing Chen / astro"
+title                    : "Xueqing Chen"
 title_separator          : "-"
 name                     : &name "Xueqing Chen"
 description              : &description "personal description"
