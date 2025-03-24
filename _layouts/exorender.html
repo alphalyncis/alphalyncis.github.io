@@ -6,7 +6,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <!-- Load Orbitron font -->
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
   </head>
   <body>
@@ -24,26 +23,37 @@ layout: compress
         margin: 0;
         padding: 0;
         background-color: black;
-        color: white; /* Ensures text is visible */
+        color: white;
       }
+      /* Masthead styling */
       .masthead {
         background-color: black;
         width: 100%;
         margin: 0;
         padding: 0;
       }
-      .masthead__inner-wrap, .greedy-nav, .masthead__menu {
+      .masthead__inner-wrap {
         background-color: black !important;
-        width: 100%;
-        margin: 0;
-        padding: 0 10px;
+        max-width: 1280px; /* Matches Minimal Mistakes default width */
+        margin: 0 auto; /* Centers the content */
+        padding: 0.5em 1em; /* Restores typical padding */
+      }
+      .greedy-nav {
+        background-color: black !important;
+        display: flex;
+        align-items: center; /* Vertically centers nav items */
+      }
+      .masthead__menu {
+        background-color: black !important;
       }
       .masthead a {
         color: #ccc;
+        text-decoration: none; /* Removes underlines */
       }
       .masthead a:hover {
         color: white;
       }
+      /* Content styling */
       .content {
         padding: 20px;
         margin-top: 60px;
@@ -65,7 +75,7 @@ layout: compress
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         gap: 20px;
-        margin-bottom: 40px; /* Space after gallery */
+        margin-bottom: 40px;
       }
       .gallery img {
         max-width: 100%;
