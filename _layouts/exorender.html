@@ -25,11 +25,24 @@ layout: compress
       .masthead a {
         color: #ccc; /* Greyish-white text for links */
       }
+      .masthead a:hover {
+        color: #ccc;
+      }
       /* Ensure content starts below masthead */
       .content {
         padding: 20px;
         margin-top: 60px; /* Adjust based on masthead height; prevents overlap */
         text-align: center;
+        font-family: "Orbitron", sans-serif;
+        font-size: 1.1em;
+      }
+      .content h1 {
+        font-weight: 700; /* Bold for headings */
+        font-size: 2em; /* Larger heading */
+        text-transform: uppercase; /* Optional: stylish effect */
+      }
+      .content p {
+        font-weight: 400; /* Normal weight for paragraphs */
       }
       /* Gallery styling */
       .gallery {
