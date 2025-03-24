@@ -7,17 +7,31 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     <style>
-      body {
-        background-color: black;
-        color: white;
+      html, body {
+        height: 100%; /* Ensures the body takes up full viewport height */
         margin: 0;
         padding: 0;
+        background-color: black; /* Sets black background for the entire page */
+        color: white; /* Default text color */
       }
+      /* Style the masthead */
+      .masthead {
+        background-color: black; /* Inverts masthead background */
+        border-bottom: 1px solid #333; /* Optional: subtle border for contrast */
+      }
+      .masthead a {
+        color: #ccc; /* Greyish-white text for links */
+      }
+      .masthead a:hover {
+        color: white; /* Brighter white on hover */
+      }
+      /* Ensure content starts below masthead */
       .content {
         padding: 20px;
-        text-align: center; /* Optional: centers your renders */
+        margin-top: 60px; /* Adjust based on masthead height; prevents overlap */
+        text-align: center;
       }
-      /* Optional: Style for a gallery of renders */
+      /* Gallery styling */
       .gallery {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
