@@ -8,7 +8,7 @@ author_profile: true
 # ExoRender
 
 <div class="gallery">
-![Render 1](/images/render1.png)
+<img src="/images/render1.png" alt="Render 1">
 </div>
 
 Coming soon!
