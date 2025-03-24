@@ -1,68 +1,54 @@
----
-layout: compress
----
-<!DOCTYPE html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-    <style>
-      html, body {
-        height: 100%; /* Ensures the body takes up full viewport height */
-        margin: 0;
-        padding: 0;
-        background-color: black; /* Sets black background for the entire page */
-        color: white; /* Default text color */
-      }
-      /* Style the masthead */
-      .masthead {
-        background-color: black; /* Inverts masthead background */
-        /* border-bottom: 1px solid #333; /* Optional: subtle border for contrast */
-      }
-      .masthead__inner-wrap, .greedy-nav {
-        background-color: black !important; /* Overrides inner white background */
-      }
-      .masthead a {
-        color: #ccc; /* Greyish-white text for links */
-      }
-      .masthead a:hover {
-        color: #ccc;
-      }
-      /* Ensure content starts below masthead */
-      .content {
-        padding: 20px;
-        margin-top: 60px; /* Adjust based on masthead height; prevents overlap */
-        text-align: center;
-        font-family: "Orbitron", sans-serif;
-        font-size: 1.1em;
-      }
-      .content h1 {
-        font-weight: 700; /* Bold for headings */
-        font-size: 2em; /* Larger heading */
-        text-transform: uppercase; /* Optional: stylish effect */
-      }
-      .content p {
-        font-weight: 400; /* Normal weight for paragraphs */
-      }
-      /* Gallery styling */
-      .gallery {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        gap: 20px;
-      }
-      .gallery img {
-        max-width: 100%;
-        height: auto;
-      }
-    </style>
-  </head>
-  <body>
-    {% include masthead.html %}
-
-    <div class="content">
-      {{ content }}
-    </div>
-
-    {% include scripts.html %}
-  </body>
-</html>
+<style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      background-color: black;
+      color: white;
+    }
+    /* Masthead styling */
+    .masthead {
+      background-color: black;
+      width: 100%; /* Ensure it spans full width */
+      margin: 0; /* Remove any default margins */
+      padding: 0; /* Remove any default padding */
+    }
+    .masthead__inner-wrap, .greedy-nav, .masthead__menu {
+      background-color: black !important; /* Override all inner elements */
+      width: 100%; /* Full width */
+      margin: 0; /* No gaps */
+      padding: 0 10px; /* Optional: keep some horizontal padding for content */
+    }
+    .masthead a {
+      color: #ccc;
+    }
+    .masthead a:hover {
+      color: white;
+    }
+    /* Content styling */
+    .content {
+      padding: 20px;
+      margin-top: 60px;
+      text-align: center;
+      font-family: "Orbitron", sans-serif;
+      font-size: 1.1em;
+      letter-spacing: 1px;
+    }
+    .content h1 {
+      font-weight: 700;
+      font-size: 2em;
+      text-transform: uppercase;
+    }
+    .content p {
+      font-weight: 400;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+    .gallery img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
