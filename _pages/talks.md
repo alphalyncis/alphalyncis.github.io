@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 Probing extrasolar weather with time-resolved spectroscopy ([slides](https://alphalyncis.github.io/files/3rdyrseminar_slideshow.ppsx))\
-_PhD Seminar Series, IfA Royal Obervatory Edinburgh, UK, Apr 9, 2025_
-
+_PhD Seminar Series, Royal Observatory, Edinburgh, UK, Apr 9, 2025_
 
 Clouds or Chemistry? JWST weather report from the nearest brown dwarfs ([slides](https://alphalyncis.github.io/files/SEBD2025_slideshow.ppsx))\
 _Scottish Brown Dwarfs & Exoplanet meeting, Edinburgh, UK, Jan 9, 2025_
@@ -20,6 +19,9 @@ _SoPA Highlands Conference, Crieff, UK, Feb 20-22 2023_
 
 Posters
 ------
+Clouds or Chemistry? Weather report from the nearest extrasolar worlds ([pdf](https://alphalyncis.github.io/files/3rdyrposter_XueqingChen.pdf))\
+_PhD Poster session, School of Physics and Astronomy, Edinburgh, Nov 20, 2024_
+
 Mapping atmospheric structures on the nearest brown dwarfs ([pdf](https://alphalyncis.github.io/files/sagan_poster.pdf))\
 _Sagan Summer Workshop, Pasadena CA, USA, Jul 24-28, 2023_
 
