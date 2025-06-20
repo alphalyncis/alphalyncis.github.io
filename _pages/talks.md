@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+JWST weather report from the nearest brown dwarfs ([slides]coming soon)\
+_EAS 2025 - European Astronomical Society Annual Meeting, Cork, Ireland, Jun 27, 2025_
+
 Probing extrasolar weather with time-resolved spectroscopy ([slides](https://alphalyncis.github.io/files/3rdyrseminar_slideshow.ppsx))\
 _PhD Seminar Series, Royal Observatory, Edinburgh, UK, Apr 9, 2025_
 
