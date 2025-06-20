@@ -9,7 +9,7 @@ author_profile: true
 <img src="/images/render_jup.png" alt="render_jup">
 </div>
 
-# Exorender
+# ExoRender
 Data-driven 3D rendering of astronomical objects — bridging scientific accuray and artistic expression
 
 <div style="margin: 20px 0;">
