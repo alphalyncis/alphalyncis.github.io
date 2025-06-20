@@ -5,7 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-Clouds or Chemistry? JWST weather report from the nearest brown dwarfs ([slides])\
+Probing extrasolar weather with time-resolved spectroscopy ([slides](https://alphalyncis.github.io/files/3rdyrseminar_slideshow.ppsx))\
+_PhD Seminar Series, IfA Royal Obervatory Edinburgh, UK, Apr 9, 2025_
+
+
+Clouds or Chemistry? JWST weather report from the nearest brown dwarfs ([slides](https://alphalyncis.github.io/files/SEBD2025_slideshow.ppsx))\
 _Scottish Brown Dwarfs & Exoplanet meeting, Edinburgh, UK, Jan 9, 2025_
 
 Mapping atmospheric structures on the nearest brown dwarfs ([slides](https://alphalyncis.github.io/files/ukexom24.pdf))\
