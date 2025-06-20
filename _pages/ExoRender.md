@@ -10,7 +10,7 @@ author_profile: true
 </div>
 
 # ExoRender
-Data-driven 3D rendering of astronomical objects — bridging scientific accuray and artistic expression
+Data-driven 3D rendering of astronomical objects — bridging scientific accuracy and artistic expression
 
 <div style="margin: 40px 0; padding: 20px; background-color: rgba(255,255,255,0.05); border-radius: 10px;">
   <iframe 
