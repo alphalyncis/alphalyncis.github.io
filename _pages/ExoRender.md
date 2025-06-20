@@ -10,13 +10,13 @@ author_profile: true
 </div>
 
 # EXORENDER
-Coming soon
+Data-driven 3D rendering of astronomical objects — bridging scientific accuray and artistic expression
 
 <div style="margin: 20px 0;">
   <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=Q0aGZvRusAM&t=6s" 
+    src="https://www.youtube.com/embed/Q0aGZvRusAM?start=6" 
     title="WISE1049vid" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -29,4 +29,5 @@ Coming soon
 </div>
 
 # EXORENDER
-Coming soon
+Commissions open — get in touch to visualize or animate your favorite research target!
+
