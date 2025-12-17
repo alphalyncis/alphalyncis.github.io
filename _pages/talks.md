@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Mapping atmospheric structures with Doppler imaging in the era of ELT ([slides]coming soon)\ 
+Mapping atmospheric structures with Doppler imaging in the era of ELT ([slides]coming soon)\
 _Exo-ELT 2025 - Planetary Formation and Exoplanets in the ELT era, ESO Garching, Germany, Nov 21, 2025_
 
 JWST weather report from the nearest brown dwarfs ([slides]coming soon)\
