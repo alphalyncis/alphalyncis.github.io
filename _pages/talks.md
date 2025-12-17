@@ -41,7 +41,6 @@ _Spectroscopy of exoplanets at high resolution, Northampton, UK, Feb 6-7 2023_
 Travel map:
 <img src="https://douwe.com/projects/visited/world.png?selected=KE,MA,TN,TZ,CN,HK,JP,KH,MO,MN,SG,TR,VN,AD,AT,BE,CH,CZ,DE,DK,ES,FI,FR,GB,GI,GR,HU,IE,IS,IT,LI,MT,NL,NO,PL,PT,RU,SK,SE,VA,CA,US,AU,BO,CL&visited=%23187308" width="720" height="400" ><br/>
 visited 45 countries and regions (20.74%)
-<br/>Try <a href="https://neptyne.com">Neptyne, the programmable spreadsheet</a>
-
+<br/>Generate your map <a href="https://douwe.com/projects/visited">here</a>
 
 
