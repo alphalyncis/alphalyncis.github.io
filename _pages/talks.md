@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+Mapping atmospheric structures with Doppler imaging in the era of ELT ([slides]coming soon)\ _Exo-ELT 2025 - Planetary Formation and Exoplanets in the ELT era, ESO Garching, Germany, Nov 21, 2025_
+
 JWST weather report from the nearest brown dwarfs ([slides]coming soon)\
 _EAS 2025 - European Astronomical Society Annual Meeting, Cork, Ireland, Jun 27, 2025_
 
@@ -35,7 +37,9 @@ Flash talk: Mapping the top-of-atmosphere of Luhman 16B\
 _Spectroscopy of exoplanets at high resolution, Northampton, UK, Feb 6-7 2023_
 
 
-
+<img src="https://douwe.com/projects/visited/world.png?selected=KE,MA,TN,TZ,CN,HK,JP,KH,MO,MN,SG,TR,VN,AD,AT,BE,CH,CZ,DE,DK,ES,FI,FR,GB,GI,GR,HU,IE,IS,IT,LI,MT,NL,NO,PL,PT,RU,SK,SE,VA,CA,US,AU,BO,CL&visited=%23187308" width="720" height="400" ><br/>
+visited 45 states (20.74%)
+<br/>Try <a href="https://neptyne.com">Neptyne, the programmable spreadsheet</a>
 
 
 
